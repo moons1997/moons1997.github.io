@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/themes/edulyn-v1.0/static/css/main.21d3bd19.chunk.css",
+    "main.js": "/themes/edulyn-v1.0/static/js/main.e489bf99.chunk.js",
+    "main.js.map": "/themes/edulyn-v1.0/static/js/main.e489bf99.chunk.js.map",
+    "runtime-main.js": "/themes/edulyn-v1.0/static/js/runtime-main.a0e5a4eb.js",
+    "runtime-main.js.map": "/themes/edulyn-v1.0/static/js/runtime-main.a0e5a4eb.js.map",
+    "static/css/2.26b3e75b.chunk.css": "/themes/edulyn-v1.0/static/css/2.26b3e75b.chunk.css",
+    "static/js/2.d7f56920.chunk.js": "/themes/edulyn-v1.0/static/js/2.d7f56920.chunk.js",
+    "static/js/2.d7f56920.chunk.js.map": "/themes/edulyn-v1.0/static/js/2.d7f56920.chunk.js.map",
+    "index.html": "/themes/edulyn-v1.0/index.html",
+    "precache-manifest.512240d2d9d2b9e51797fe13c6554313.js": "/themes/edulyn-v1.0/precache-manifest.512240d2d9d2b9e51797fe13c6554313.js",
+    "service-worker.js": "/themes/edulyn-v1.0/service-worker.js",
+    "static/css/2.26b3e75b.chunk.css.map": "/themes/edulyn-v1.0/static/css/2.26b3e75b.chunk.css.map",
+    "static/css/main.21d3bd19.chunk.css.map": "/themes/edulyn-v1.0/static/css/main.21d3bd19.chunk.css.map",
+    "static/js/2.d7f56920.chunk.js.LICENSE.txt": "/themes/edulyn-v1.0/static/js/2.d7f56920.chunk.js.LICENSE.txt",
+    "static/media/GlobalStyle.scss": "/themes/edulyn-v1.0/static/media/Gilroy-UltraLightItalic.33f9fdd1.woff2",
+    "static/media/Group 112.png": "/themes/edulyn-v1.0/static/media/Group 112.3155af49.png",
+    "static/media/profit-logo.png": "/themes/edulyn-v1.0/static/media/profit-logo.c14f9fab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0e5a4eb.js",
+    "static/css/2.26b3e75b.chunk.css",
+    "static/js/2.d7f56920.chunk.js",
+    "static/css/main.21d3bd19.chunk.css",
+    "static/js/main.e489bf99.chunk.js"
+  ]
+}
